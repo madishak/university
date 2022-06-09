@@ -12,5 +12,5 @@ cd backend
 set FLASK_APP=main.py
 flask run
 
-cd frontend
-npm start
+cd front
+npm startnpm

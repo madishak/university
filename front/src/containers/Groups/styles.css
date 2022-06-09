@@ -1,0 +1,28 @@
+.wrapper {
+    margin: 0 auto;
+    width: 40%;
+}
+.groups_items {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #ccc;
+    padding: 20px 0;
+}
+
+.groups_header {
+    font-weight: 900;
+}
+
+.group__item {
+    padding-top: 20px;
+}
+
+.input__file {
+    margin-bottom: 20px;
+}
+
+.task__item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
